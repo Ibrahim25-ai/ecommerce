@@ -1,0 +1,48 @@
+﻿@model IEnumerable<ApplicationUser>
+
+@{
+    ViewData["Title"] = "List of all users";
+}
+
+<div class="col-xl-12">
+    <div class="white_card card_height_100 mb_30">
+        <div class="white_card_header">
+            <div class="row align-items-center">
+                <div class="col-lg-4">
+                    <div class="main-title">
+                        <h3 class="m-0">List Users</h3>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="white_card_body panel-list2">
+        @foreach (var item in Model)
+        {
+            
+                <div class="single_user_pil d-flex align-items-center justify-content-between">
+                    <div class="user_pils_thumb d-flex align-items-center">
+                        <div class="thumb_34 mr_15 mt-0">
+                            <img class="img-fluid radius_50"
+                                 src="~/img/customers/1.png" alt>
+                        </div>
+                        <span class="f_s_14 f_w_400 text_color_11">@Html.DisplayFor(modelItem => item.FullName)</span>
+                    </div>
+                    <div class="user_info">
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    </div>
+                    
+                </div>
+
+               
+
+           
+        }
+        
+        </div>
+
+    </div>
+
+
+</div>

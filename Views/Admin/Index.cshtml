@@ -1,0 +1,126 @@
+﻿
+<link rel="stylesheet" href="~/css/vendors/themefy_icon/themify-icons.css" />
+<link rel="stylesheet" href="~/css/vendors/niceselect/css/nice-select.css" />
+<link rel="stylesheet" href="~/css/vendors/font_awesome/css/all.min.css" />
+<link rel="stylesheet" href="~/css/vendors/vectormap-home/vectormap-2.0.2.css" />
+<link rel="stylesheet" href="~/css/vendors/datatable/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="~/css/vendors/datatable/css/responsive.dataTables.min.css" />
+<!-- link css for sidebar menu -->
+<link rel="stylesheet" href="~/css/metisMenu.css">
+
+<!-- link main css file -->
+<link rel="stylesheet" href="~/css/style1.css" />
+
+<div class="crm_body_bg">
+
+    <!-- sidebar html code-->
+   
+    <!-- main content html code -->
+    <section class="main_content dashboard_part large_header_bg">
+
+        
+        <div class="main_content_iner overly_inner ">
+            <div class="container-fluid p-0 ">
+
+                <div class="row">
+                    <div class="col-12">
+                        <div class="page_title_box d-flex flex-wrap align-items-center justify-content-between">
+                            <div class="page_title_left d-flex align-items-center">
+                                <h3 class="f_s_25 f_w_700 dark_text mr_30">Dashboard</h3>
+                                <ol class="breadcrumb page_bradcam mb-0">
+                                    <li class="breadcrumb-item"><a href="javascript:void(0);">Home</a></li>
+                                    
+                                </ol>
+                            </div>
+                            <div class="page_title_right">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+                <div class="row ">
+                        <!--<div class="white_card card_height_100 mb_30 user_crm_wrapper">
+                            <div class="row">
+                                <div class="col-lg-3">
+                                    <div class="single_crm">
+                                        <div class="crm_head d-flex align-items-center justify-content-between">
+                                            <div class="thumb">
+                                                <img src="~/img/crm/businessman.svg" alt>
+                                            </div>
+                                            <i class="fas fa-ellipsis-h f_s_11 white_text"></i>
+                                        </div>
+                                        <div class="crm_body">
+                                            <h4>2455</h4>
+                                            <p>Users</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="single_crm ">
+                                        <div class="crm_head crm_bg_1 d-flex align-items-center justify-content-between">
+                                            <div class="thumb">
+                                                <img src="~/img/crm/customer.svg" alt>
+                                            </div>
+                                            <i class="fas fa-ellipsis-h f_s_11 white_text"></i>
+                                        </div>
+                                        <div class="crm_body">
+                                            <h4>2455</h4>
+                                            <p>Products</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="single_crm">
+                                        <div class="crm_head crm_bg_2 d-flex align-items-center justify-content-between">
+                                            <div class="thumb">
+                                                <img src="~/img/crm/infographic.svg" alt>
+                                            </div>
+                                            <i class="fas fa-ellipsis-h f_s_11 white_text"></i>
+                                        </div>
+                                        <div class="crm_body">
+                                            <h4>2455</h4>
+                                            <p>Companies</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3">
+                                    <div class="single_crm">
+                                        <div class="crm_head crm_bg_3 d-flex align-items-center justify-content-between">
+                                            <div class="thumb">
+                                                <img src="~/img/crm/sqr.svg" alt>
+                                            </div>
+                                            <i class="fas fa-ellipsis-h f_s_11 white_text"></i>
+                                        </div>
+                                        <div class="crm_body">
+                                            <h4>2455</h4>
+                                            <p>Categories</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>-->
+                    @await Component.InvokeAsync("OrdersList")
+                    @await Component.InvokeAsync("RolesList")
+                    @await Component.InvokeAsync("ProductList")
+                    @await Component.InvokeAsync("CompaniesList")
+
+                   
+
+                    @await Component.InvokeAsync("CategoriesList")
+                    @await Component.InvokeAsync("UsersList")
+
+                    
+                   
+                    
+                    
+            </div>
+        </div>
+
+        
+    </section>
+
+   
+
+  
+</div>

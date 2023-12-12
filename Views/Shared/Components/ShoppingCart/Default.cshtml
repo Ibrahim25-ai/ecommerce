@@ -1,0 +1,57 @@
+﻿@using EStore.Data.ViewModels;
+@model ShoppingCartVM
+
+@{
+    ViewData["Title"] = "Shopping cart summary";
+}
+
+
+<button class="panel-close-btn" aria-label="Close cart" data-panel-btn="cart">
+    <ion-icon name="close-outline"></ion-icon>
+</button>
+
+<ul class="panel-list">
+
+    @if ( Model.ShoppingCartTotal == 0)
+    {
+    <div>
+        <p class="item-title">No Products Found</p>
+
+    </div>
+        
+    }else{
+    @foreach (var item in Model.ShoppingCart.ShoppingCartItems)
+{
+    <li class="panel-item panel-card" >
+        <a asp-controller="Products" asp-action="Details" asp-route-id="@item.Id" class="panel-card">
+
+            <figure class="item-banner">
+                <img src="@item.Product.ImageURL" width="46" height="46" loading="lazy"
+                     alt="@item.Product.ProductName">
+            </figure>
+
+            <div>
+                <p class="item-title">@item.Product.ProductName</p>
+
+                <span class="item-value">@item.Amount * @item.Product.Price.ToString("c")</span>
+                
+            </div>
+            <a class="  item-close-btn" asp-controller="Orders" asp-action="RemoveItemFromShoppingCart"
+                               asp-route-id="@item.Product.Id">
+                <ion-icon name="close-outline"></ion-icon></a>
+            
+                       
+                
+
+        </a>
+    </li>
+}}
+</ul>
+
+<div class="subtotal">
+    <p class="subtotal-text">Subtotal:</p>
+    <data class="subtotal-value" value="@Model.ShoppingCartTotal.ToString("c")">@Model.ShoppingCartTotal.ToString("c")</data>
+</div>
+
+<a asp-controller="Orders"
+   asp-action="ShoppingCart" class="btn bg-primary">View Cart</a>

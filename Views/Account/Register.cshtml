@@ -1,0 +1,64 @@
+﻿@using EStore.Data.ViewModels; 
+@model RegisterVM;
+
+@{ 
+    ViewData["Title"] = "Sign up for a new account";
+}
+
+
+
+
+<section class="account-sign">
+    <div class="container">
+
+<div class="row justify-content-center">
+    @if (TempData["Error"] != null)
+    {
+        <div class="col-md-12 alert alert-danger">
+            <span><b>Sorry!</b> - @TempData["Error"] </span>
+        </div>
+    }
+             
+            
+       
+    
+<div class="col-lg-6 col-md-12">
+    <div class="account-sign-up">
+        <h5 class="text-center">Sign up</h5>
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           
+            <div class="form__div">
+                            <input asp-for="FullName" class="form__input" type="text" class="form__input" placeholder=" " />
+
+                <label asp-for="FullName" for="" class="form__label">Full Name</label>
+                
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+           
+            <div class="form__div">
+                <input asp-for="EmailAddress" type="email" class="form__input" placeholder=" " />
+                <label asp-for="EmailAddress" for="" class="form__label">Email</label>
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+            <div class="form__div">
+                <input asp-for="Password" type="password" class="form__input" placeholder=" " />
+                <label asp-for="Password" for="" class="form__label">Password</label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form__div mb-0">
+                <input asp-for="ConfirmPassword" type="password" class="form__input" placeholder=" " />
+                <label asp-for="ConfirmPassword" for="" class="form__label">Repeat Password</label>
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+               
+            </div>
+
+            <input class="btn bg-primary mt-5" type="submit" value="Sign Up" />
+            
+        </form>
+    </div>
+
+    </div>
+</div>
+</div>
+</section>

@@ -1,0 +1,368 @@
+﻿@using EStore.Exensions;
+@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<main>
+    <!--Banner Area Start -->
+    <section class="banner-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-2 order-lg-1">
+                    <div class="banner-area__content">
+                        <h2>
+                            Premium care for
+                            premium people.
+                        </h2>
+                        <p>Not ready for a subscription? Shop all a la carté skin, hair, and body care.</p>
+                        <a class="btn bg-primary" href="#">Shop Now</a>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2">
+                    <div class="banner-area__img">
+                        <img src="~/images/banner.jpg" alt="banner-img" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About Area Start -->
+    <section class="about-area">
+        <div class="container">
+            <div class="about-area-content">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 ">
+                        <div class="about-area-content-img">
+                            <img src="~/images/feature/medicine.jpg" alt="img" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-area-content-text">
+                            <h3>Why Shop with Olog</h3>
+                            <p>
+                                Fortify your hair follicles, give thinning areas some volume, and treat your
+                                body’s
+                                skin like driving your dream car off the lot.
+                            </p>
+                            <div class="icon-area-content">
+                                <div class="icon-area">
+                                    <i class="far fa-check-circle"></i>
+                                    <span>Secure Payment Method.</span>
+                                </div>
+                                <div class="icon-area">
+                                    <i class="far fa-check-circle"></i>
+                                    <span>24/7 Customers Services.</span>
+                                </div>
+                                <div class="icon-area">
+                                    <i class="far fa-check-circle"></i>
+                                    <span>Shop in 2 languages</span>
+                                </div>
+                                <div class="icon-area">
+                                    <i class="far fa-check-circle"></i>
+                                    <span>Mauris congue eros in iaculis.</span>
+                                </div>
+                            </div>
+
+                            <a class="btn bg-primary" href="#">Get Started</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About Area End -->
+    
+    <!-- Populer Product Strat -->
+    <section class="populerproduct">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="section-title">
+                        <h2>Popular Products</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                 @foreach (var item in Model)
+                 {
+                <div class="col-md-4 col-sm-6">
+                    <div class="product-item">
+                        <div class="product-item-image">
+                            <a href="product-details.html">
+                                    <img src="@item.ImageURL" alt="Product Name"
+                                     class="img-fluid">
+                            </a>
+                            <div class="cart-icon">
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                    {
+                                        <a class="text-black float-right" asp-controller="Products" asp-action="Edit" asp-route-id="@item.Id"><svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><path d="M471.6 21.7c-21.9-21.9-57.3-21.9-79.2 0L362.3 51.7l97.9 97.9 30.1-30.1c21.9-21.9 21.9-57.3 0-79.2L471.6 21.7zm-299.2 220c-6.1 6.1-10.8 13.6-13.5 21.9l-29.6 88.8c-2.9 8.6-.6 18.1 5.8 24.6s15.9 8.7 24.6 5.8l88.8-29.6c8.2-2.7 15.7-7.4 21.9-13.5L437.7 172.3 339.7 74.3 172.4 241.7zM96 64C43 64 0 107 0 160V416c0 53 43 96 96 96H352c53 0 96-43 96-96V320c0-17.7-14.3-32-32-32s-32 14.3-32 32v96c0 17.7-14.3 32-32 32H96c-17.7 0-32-14.3-32-32V160c0-17.7 14.3-32 32-32h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H96z" /></svg></a>
+                                    }
+                                <a href="#"><i class="far fa-heart"></i></a>
+                                    <a asp-controller="Orders"
+                                       asp-action="AddToShoppingCart"
+                                       asp-route-id="@item.Id">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16.75" height="16.75"
+                                         viewBox="0 0 16.75 16.75">
+                                        <g id="Your_Bag" data-name="Your Bag" transform="translate(0.75)">
+                                            <g id="Icon" transform="translate(0 1)">
+                                                <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="0.682" cy="0.714"
+                                                         rx="0.682" ry="0.714" transform="translate(4.773 13.571)"
+                                                         fill="none" stroke="#1a2224" stroke-linecap="round"
+                                                         stroke-linejoin="round" stroke-width="1.5" />
+                                                <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="0.682" cy="0.714"
+                                                         rx="0.682" ry="0.714" transform="translate(12.273 13.571)"
+                                                         fill="none" stroke="#1a2224" stroke-linecap="round"
+                                                         stroke-linejoin="round" stroke-width="1.5" />
+                                                <path id="Path_3" data-name="Path 3"
+                                                      d="M1,1H3.727l1.827,9.564a1.38,1.38,0,0,0,1.364,1.15h6.627a1.38,1.38,0,0,0,1.364-1.15L16,4.571H4.409"
+                                                      transform="translate(-1 -1)" fill="none" stroke="#1a2224"
+                                                      stroke-linecap="round" stroke-linejoin="round"
+                                                      stroke-width="1.5" />
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+            
+                        <div class="product-item-info">
+
+                                <a asp-controller="Products" asp-action="Details" asp-route-id="@item.Id">@item.ProductName</a>
+                                <span>@item.Price.ToString("c")</span> <del>@item.Price.ToString("c")</del>
+                        </div>
+                    </div>
+                </div>
+                }
+                
+            
+            </div>
+        </div>
+    </section>
+    <!-- Populer Product End -->
+    <!-- Categorys Section Start -->
+    <section class="categorys">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="section-title">
+                        <h2>Shop with top categorys</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/tree dasher.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Tree Dasher</h6>
+                                <span>480 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/wool-shoe.jpg" alt="images"> </a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Wool Runner Shoes</h6>
+                                <span>40 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/jumper.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Jumper</h6>
+                                <span>75 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/iphone.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Apple</h6>
+                                <span>12 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/iphone.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Electronic</h6>
+                                <span>50 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/drone.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Drone</h6>
+                                <span>20 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/headphone.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Headphone</h6>
+                                <span>10 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 col-6">
+                    <div class="productcategory text-center">
+                        <div class="productcategory-img">
+                            <a href="#"><img src="~/images/categorys/chosma.jpg" alt="images"></a>
+                        </div>
+                        <div class="productcategory-text">
+                            <a href="#">
+                                <h6>Sunglass</h6>
+                                <span>25 Products</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="features-morebutton text-center">
+                        <a class="btn bt-glass" href="#">View All Categorys</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Categorys Section End -->
+<div class=" pt-5 pb-5 mb-5" style="background: #d4d5de";>
+    <h2 class="text-center mb-3">Our Promises</h2>
+    <div class="container my-4">
+        <div class="row">
+            <div class="col-12 col-sm-3">
+                <div class="row my-3 justify-content-center">
+                    <div class="col-3 icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90%" height="90%" fill="currentColor" class="bi bi-shield-fill-check " viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M8 0c-.69 0-1.843.265-2.928.56-1.11.3-2.229.655-2.887.87a1.54 1.54 0 0 0-1.044 1.262c-.596 4.477.787 7.795 2.465 9.99a11.777 11.777 0 0 0 2.517 2.453c.386.273.744.482 1.048.625.28.132.581.24.829.24s.548-.108.829-.24a7.159 7.159 0 0 0 1.048-.625 11.775 11.775 0 0 0 2.517-2.453c1.678-2.195 3.061-5.513 2.465-9.99a1.541 1.541 0 0 0-1.044-1.263 62.467 62.467 0 0 0-2.887-.87C9.843.266 8.69 0 8 0zm2.146 5.146a.5.5 0 0 1 .708.708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647z" />
+                        </svg>
+                    </div>
+                    <div class="col-6">
+                        <p class="m-0">
+                            <strong>Guarantee</strong>
+                        </p>
+                        <span>30 Days Guarantee</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3">
+                <div class="row my-3 justify-content-center">
+                    <div class="col-3 icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90%" height="90%" fill="currentColor" class="bi bi-percent" viewBox="0 0 16 16">
+                            <path d="M13.442 2.558a.625.625 0 0 1 0 .884l-10 10a.625.625 0 1 1-.884-.884l10-10a.625.625 0 0 1 .884 0zM4.5 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5zm7 6a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm0 1a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z" />
+                        </svg>
+                    </div>
+                    <div class="col-6">
+                        <p class="m-0">
+                            <strong>10% Discount</strong>
+                        </p>
+                        <span>When Signing Up</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3">
+                <div class="row my-3 justify-content-center">
+                    <div class="col-3 icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90%" height="90%" fill="currentColor" class="bi bi-paypal" viewBox="0 0 16 16">
+                            <path d="M14.06 3.713c.12-1.071-.093-1.832-.702-2.526C12.628.356 11.312 0 9.626 0H4.734a.7.7 0 0 0-.691.59L2.005 13.509a.42.42 0 0 0 .415.486h2.756l-.202 1.28a.628.628 0 0 0 .62.726H8.14c.429 0 .793-.31.862-.731l.025-.13.48-3.043.03-.164.001-.007a.351.351 0 0 1 .348-.297h.38c1.266 0 2.425-.256 3.345-.91.379-.27.712-.603.993-1.005a4.942 4.942 0 0 0 .88-2.195c.242-1.246.13-2.356-.57-3.154a2.687 2.687 0 0 0-.76-.59l-.094-.061ZM6.543 8.82a.695.695 0 0 1 .321-.079H8.3c2.82 0 5.027-1.144 5.672-4.456l.003-.016c.217.124.4.27.548.438.546.623.679 1.535.45 2.71-.272 1.397-.866 2.307-1.663 2.874-.802.57-1.842.815-3.043.815h-.38a.873.873 0 0 0-.863.734l-.03.164-.48 3.043-.024.13-.001.004a.352.352 0 0 1-.348.296H5.595a.106.106 0 0 1-.105-.123l.208-1.32.845-5.214Z" />
+                        </svg>
+                    </div>
+                    <div class="col-6">
+                        <p class="m-0">
+                            <strong>Safe Purchase</strong>
+                        </p>
+                        <span>Pay with Paypal</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-sm-3">
+                <div class="row my-3 justify-content-center">
+                    <div class="col-3 icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="90%" height="90%" fill="currentColor" class="bi bi-cart-check" viewBox="0 0 16 16">
+                            <path d="M11.354 6.354a.5.5 0 0 0-.708-.708L8 8.293 6.854 7.146a.5.5 0 1 0-.708.708l1.5 1.5a.5.5 0 0 0 .708 0l3-3z" />
+                            <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1H.5zm3.915 10L3.102 4h10.796l-1.313 7h-8.17zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z" />
+                        </svg>
+                    </div>
+                    <div class="col-6">
+                        <p class="m-0">
+                            <strong>Shipping</strong>
+                        </p>
+                        <span>Free Fast Delivery</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div >
+<h2 class="text-center mb-3">Top Companies</h2>
+<div class="container my-4">
+    <div class="row">
+        <div class="col-3">
+            <div class="my-5 rounded">
+                <a asp-controller="Companies" asp-action="Details" asp-route-id=4>
+                    <img src="https://download.logo.wine/logo/Matrox/Matrox-Logo.wine.png" class="w-100 my-auto" alt="Company Logo">
+                </a>
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="my-5 rounded">
+                <a asp-controller="Companies" asp-action="Details" asp-route-id=3>
+                    <img src="https://1000logos.net/wp-content/uploads/2017/02/Intel-Logo-2005.png" class="w-100" alt="Company Logo">
+                </a>
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="my-5 rounded">
+                <a asp-controller="Companies" asp-action="Details" asp-route-id=1>
+                    <img src="https://s3.amazonaws.com/cms.ipressroom.com/219/files/20149/544a0d86f6091d6699000060_NVLogo_2D/NVLogo_2D_362acb00-8e1b-476b-9662-9fe138a4a920-prv.jpg" class="w-100 my-auto" alt="Company Logo">
+                </a>
+            </div>
+        </div>
+        <div class="col-3">
+            <div class="my-5 rounded">
+                <img src="https://logos-world.net/wp-content/uploads/2020/03/AMD-Logo-1990-present.jpg" class="w-100" alt="Company Logo">
+            </div>
+        </div>
+    </div>
+</div>
+

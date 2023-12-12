@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "List of Categories";
+}
+
+<div class="col-xl-4">
+    <div class="white_card card_height_100 mb_30">
+        <div class="white_card_header">
+            <div class="row align-items-center">
+                <div class="col-lg-4">
+                    <div class="main-title">
+                        <h3 class="m-0">Categories</h3>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="white_card_body ">
+                    @foreach (var item in Model)
+                    {
+                        
+                            <div class="single_user_pil d-flex align-items-center justify-content-between">
+                                <div class="user_pils_thumb d-flex align-items-center">
+                                    
+                                    <span class="f_s_14 f_w_400 text_color_11">@Html.DisplayFor(modelItem => item.CategoryName)</span>
+                                </div>
+                                
+                                <div class="action_btns d-flex">
+                                    <a asp-controller="Categories" asp-action="Edit" asp-route-id="@item.Id" class="action_btn mr_10"> <i class="far fa-edit"></i> </a>
+                                    <a asp-controller="Categories" asp-action="Delete" asp-route-id="@item.Id" class="action_btn"> <i class="fas fa-trash"></i> </a>
+                                </div>
+                            </div>
+
+                            
+
+                        
+                    
+                    }
+                    
+                    
+                </div>
+        <div class="row white_card_body  justify-content-end">
+            <a class="btn btn-primary mt-5 text-center justify-content-end" asp-controller="Categories" asp-action="Create">
+                <i class="bi bi-plus-circle"></i>Add Category
+            </a>
+        </div>
+    </div>
+
+            </div>
+       

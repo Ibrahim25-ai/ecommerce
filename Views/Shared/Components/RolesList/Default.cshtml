@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<IdentityRole>
+@{
+    ViewBag.Title = "All Roles";
+}
+@if (Model.Any())
+{
+   
+    
+
+}
+
+<div class="col-xl-4">
+    <div class="white_card card_height_100 mb_30">
+        <div class="white_card_header">
+            <div class="row align-items-center">
+                <div class="col-lg-4">
+                    <div class="main-title">
+                        <h3 class="m-0">Roles</h3>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        <div class="white_card_body ">
+           
+            @foreach (var role in Model)
+            {
+
+                <div class="single_user_pil d-flex align-items-center justify-content-between">
+                    <div class="user_pils_thumb d-flex align-items-center">
+                       
+                        <span class="f_s_14 f_w_400 text_color_11">@role.Name</span>
+                    </div>
+                    <div class="user_info">
+                       
+                    </div>
+                    <div class="action_btns d-flex">
+                        <a asp-controller="Admin" asp-action="EditRole" asp-route-id="@role.Id" class="action_btn mr_10"> <i class="far fa-edit"></i> </a>
+                        <form method="post" asp-action="DeleteRole" asp-route-id="@role.Id">
+                           
+                            <span id="confirmDeleteSpan_@role.Id" style="display:none">
+                                <span>Are you sure you want to delete?</span>
+                                <button type="submit" class="btn btn-danger">Yes</button>
+                                <a href="#" class="btn btn-primary" onclick="confirmDelete('@role.Id', false)">No</a>
+                            </span>
+                            <span id="deleteSpan_@role.Id">
+                                <a href="#" class="action_btn"  onclick="confirmDelete('@role.Id', true)"><i class="fas fa-trash"></i></a>
+                            </span>
+                        </form>
+                       
+                    </div>
+                </div>
+
+
+
+
+
+            }
+
+
+        </div>
+        <div class="row white_card_body  justify-content-end">
+            
+            <a class="btn  btn-primary mt-5 text-center justify-content-end" asp-action="CreateRole"
+               asp-controller="Admin">
+                <i class="bi bi-plus-circle"></i>Add new role
+            </a>
+        </div>
+    </div>
+
+</div>

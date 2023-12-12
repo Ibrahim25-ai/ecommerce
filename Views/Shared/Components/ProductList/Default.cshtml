@@ -1,0 +1,83 @@
+﻿@using EStore.Exensions;
+@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "List of Products";
+}
+
+<div class="col-lg-12">
+    <div class="white_card card_height_100 mb_20 ">
+        <div class="white_card_header">
+            <div class="box_header m-0">
+                <div class="main-title">
+                    <h3 class="m-0">Stoke Details</h3>
+                </div>
+                <div class="header_more_tool">
+                    <div class="dropdown">
+                        <span class="dropdown-toggle" id="dropdownMenuButton"
+                              data-bs-toggle="dropdown">
+                            <i class="ti-more-alt"></i>
+                        </span>
+                        <div class="dropdown-menu dropdown-menu-right"
+                             aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="#"> <i class="fa fa-eye"></i> Action</a>
+                            <a class="dropdown-item" href="#"> <i class="fa fa-trash"></i> Delete</a>
+                            <a class="dropdown-item" href="#"> <i class="fa fa-edit"></i> Edit</a>
+                            <a class="dropdown-item" href="#"> <i class="fa fa-print"></i> Print</a>
+                            <a class="dropdown-item" href="#"> <i class="fa fa-download"></i> Download</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="white_card_body QA_section panel-list2">
+            <div class="QA_table ">
+
+                <table class="table lms_table_active2 p-0">
+                    <thead>
+                        <tr>
+                            <th scope="col">Product Name</th>
+                            <th scope="col">Market Price</th>
+                            <th scope="col">Total Unite</th>
+                            <th scope="col">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="customer d-flex align-items-center">
+                                        <div class="thumb_34 mr_15 mt-0">
+                                            <img class="img-fluid radius_50"
+                                                 src="@item.ImageURL" alt>
+                                        </div>
+                                        <span class="f_s_12 f_w_600 color_text_5">@item.ProductName</span>
+                                    </div>
+                                </td>
+                                <td class="f_s_12 f_w_400 color_text_6">@item.Price.ToString("c")</td>
+
+                                <td class="f_s_12 f_w_400 text-center">
+                                    <a href="#"
+                                       class="text_color_1">20</a>
+                                </td>
+                                <td>
+                                    <div class="action_btns d-flex">
+                                        <a asp-controller="Products" asp-action="Edit" asp-route-id="@item.Id" class="action_btn mr_10"> <i class="far fa-edit"></i> </a>
+                                        <a href="#" class="action_btn"> <i class="fas fa-trash"></i> </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                
+            </div>
+        </div>
+        <div class="row white_card_body  justify-content-end">
+            <a class="btn bg-primary text-center justify-content-end" asp-controller="Products"  asp-action="Create">
+                <i class="bi bi-plus-circle"></i> Add Product
+            </a>
+        </div>
+    </div>
+</div>

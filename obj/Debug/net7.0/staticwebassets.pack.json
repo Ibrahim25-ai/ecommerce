@@ -1,0 +1,1765 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-brands-400.067595ad77ecc0db9c81c8905a7eef32.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.067595ad77ecc0db9c81c8905a7eef32.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-brands-400.39dc51162f292b85ec8f701292e6a5f4.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.39dc51162f292b85ec8f701292e6a5f4.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-brands-400.57dcda6f368ea90179f75cbdae96c263.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.57dcda6f368ea90179f75cbdae96c263.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-brands-400.9d67fa1429375bd2a899a17eb77d0342.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.9d67fa1429375bd2a899a17eb77d0342.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-brands-400.9ec698d1a597bff5df337094b71ddaaf.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.9ec698d1a597bff5df337094b71ddaaf.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-brands-400.b564da88bbf0c4aa446fa19653713cd1.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.b564da88bbf0c4aa446fa19653713cd1.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-regular-400.3351f435b3c9037fd88aeb04dc1e43bc.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.3351f435b3c9037fd88aeb04dc1e43bc.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-regular-400.4165c2688309cbfb1b877caf8f75afb5.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.4165c2688309cbfb1b877caf8f75afb5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-regular-400.5d0861781aeef6c82fda3a3076954a1b.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.5d0861781aeef6c82fda3a3076954a1b.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-regular-400.73cf49a2232c06c920b7a34e36bfb58c.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.73cf49a2232c06c920b7a34e36bfb58c.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-regular-400.a0e3ac82940c1998c5977fd4bc1f5ef6.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.a0e3ac82940c1998c5977fd4bc1f5ef6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-regular-400.dc2561f4401f40bd65bf2080b2ec5fde.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.dc2561f4401f40bd65bf2080b2ec5fde.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-solid-900.0724bb8b89ab6b8b9b7df917b17be0b7.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.0724bb8b89ab6b8b9b7df917b17be0b7.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-solid-900.55eb2a60e8181f0e68b558c991973bf0.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.55eb2a60e8181f0e68b558c991973bf0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-solid-900.75f38a159982b6bd1704891332d95fa7.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.75f38a159982b6bd1704891332d95fa7.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-solid-900.7ed0b09414b0bf68b15ec4cfcb8a427d.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.7ed0b09414b0bf68b15ec4cfcb8a427d.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-solid-900.89e02bae13c9131c7468b1e729339ac1.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.89e02bae13c9131c7468b1e729339ac1.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\fonts\\fa-solid-900.cdfec5cf5e9840889790bcf2c4042583.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.cdfec5cf5e9840889790bcf2c4042583.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\main1.css",
+      "PackagePath": "staticwebassets\\css\\main1.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\metisMenu.css",
+      "PackagePath": "staticwebassets\\css\\metisMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\am_chart\\amcharts.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\am_chart\\amcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\apex_chart\\apex-chart2.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\apex_chart\\apex-chart2.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\apex_chart\\apex_dashboard.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\apex_chart\\apex_dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chart_am\\animated.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chart_am\\animated.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chart_am\\chart-custom.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chart_am\\chart-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chart_am\\charts.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chart_am\\charts.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chart_am\\core.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chart_am\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chart_am\\kelly.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chart_am\\kelly.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chartjs\\roundedBar.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chartjs\\roundedBar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\chartlist\\Chart.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\chartlist\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\count_up\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\count_up\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\count_up\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\count_up\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datatable\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datatable\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datepicker\\date-picker.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\datepicker\\date-picker.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datepicker\\datepicker.custom.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datepicker\\datepicker.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datepicker\\datepicker.en.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datepicker\\datepicker.en.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\datepicker\\datepicker.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\datepicker\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\font_awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\font_awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\font_awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\vendors\\font_awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\font_awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\vendors\\font_awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\gijgo\\gijgo.min.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\gijgo\\gijgo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\material_icon\\material-icons.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\material_icon\\material-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\niceselect\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\niceselect\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\niceselect\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\niceselect\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\owl_carousel\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\owl_carousel\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\owl_carousel\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\owl_carousel\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\owl_carousel\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\owl_carousel\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\progressbar\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\progressbar\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\scroll\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\scroll\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\scroll\\scrollable-custom.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\scroll\\scrollable-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\scroll\\scrollable.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\scroll\\scrollable.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\tagsinput\\tagsinput.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\tagsinput\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\tagsinput\\tagsinput.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\tagsinput\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\text-editor\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\text-editor\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\text-editor\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\text-editor\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\text_editor\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\text_editor\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\text_editor\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\text_editor\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\themefy_icon\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\css\\vendors\\themefy_icon\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\themefy_icon\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\themefy_icon\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\vectormap-home\\vectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\css\\vendors\\vectormap-home\\vectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\vectormap-home\\vectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\vectormap-home\\vectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\css\\vendors\\vectormap-home\\vectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\css\\vendors\\vectormap-home\\vectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.067595ad77ecc0db9c81c8905a7eef32.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.067595ad77ecc0db9c81c8905a7eef32.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.39dc51162f292b85ec8f701292e6a5f4.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.39dc51162f292b85ec8f701292e6a5f4.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.57dcda6f368ea90179f75cbdae96c263.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.57dcda6f368ea90179f75cbdae96c263.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.9d67fa1429375bd2a899a17eb77d0342.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.9d67fa1429375bd2a899a17eb77d0342.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.9ec698d1a597bff5df337094b71ddaaf.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.9ec698d1a597bff5df337094b71ddaaf.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.b564da88bbf0c4aa446fa19653713cd1.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.b564da88bbf0c4aa446fa19653713cd1.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.3351f435b3c9037fd88aeb04dc1e43bc.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.3351f435b3c9037fd88aeb04dc1e43bc.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.4165c2688309cbfb1b877caf8f75afb5.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.4165c2688309cbfb1b877caf8f75afb5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.5d0861781aeef6c82fda3a3076954a1b.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.5d0861781aeef6c82fda3a3076954a1b.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.73cf49a2232c06c920b7a34e36bfb58c.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.73cf49a2232c06c920b7a34e36bfb58c.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.a0e3ac82940c1998c5977fd4bc1f5ef6.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.a0e3ac82940c1998c5977fd4bc1f5ef6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.dc2561f4401f40bd65bf2080b2ec5fde.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.dc2561f4401f40bd65bf2080b2ec5fde.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.0724bb8b89ab6b8b9b7df917b17be0b7.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.0724bb8b89ab6b8b9b7df917b17be0b7.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.55eb2a60e8181f0e68b558c991973bf0.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.55eb2a60e8181f0e68b558c991973bf0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.75f38a159982b6bd1704891332d95fa7.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.75f38a159982b6bd1704891332d95fa7.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.7ed0b09414b0bf68b15ec4cfcb8a427d.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.7ed0b09414b0bf68b15ec4cfcb8a427d.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.89e02bae13c9131c7468b1e729339ac1.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.89e02bae13c9131c7468b1e729339ac1.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.cdfec5cf5e9840889790bcf2c4042583.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.cdfec5cf5e9840889790bcf2c4042583.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\account\\facebook.svg",
+      "PackagePath": "staticwebassets\\images\\account\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\account\\search.svg",
+      "PackagePath": "staticwebassets\\images\\account\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\account\\twitter.svg",
+      "PackagePath": "staticwebassets\\images\\account\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\bag-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bag-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\black-camera.jpg",
+      "PackagePath": "staticwebassets\\images\\black-camera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\brand\\01.png",
+      "PackagePath": "staticwebassets\\images\\brand\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\brand\\02.png",
+      "PackagePath": "staticwebassets\\images\\brand\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\brand\\03.png",
+      "PackagePath": "staticwebassets\\images\\brand\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\brand\\04.png",
+      "PackagePath": "staticwebassets\\images\\brand\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\brand\\05.png",
+      "PackagePath": "staticwebassets\\images\\brand\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\chosma.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\chosma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\drone.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\drone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\electronics.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\electronics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\headphone.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\iphone.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\jumper.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\jumper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\tree dasher.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\tree dasher.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\categorys\\wool-shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\categorys\\wool-shoe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\apple.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\bKash.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\bKash.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\masterclass.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\masterclass.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\nagad.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\nagad.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\rocket.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\company-image\\visa.svg",
+      "PackagePath": "staticwebassets\\images\\company-image\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\digital-shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\digital-shoe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\feature\\headphone.jpg",
+      "PackagePath": "staticwebassets\\images\\feature\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\feature\\medicine.jpg",
+      "PackagePath": "staticwebassets\\images\\feature\\medicine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\feature\\multi-products.jpg",
+      "PackagePath": "staticwebassets\\images\\feature\\multi-products.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\feature\\tissue.jpg",
+      "PackagePath": "staticwebassets\\images\\feature\\tissue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\green-small.jpg",
+      "PackagePath": "staticwebassets\\images\\green-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\green-tissue.jpg",
+      "PackagePath": "staticwebassets\\images\\green-tissue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\grocery-item.jpg",
+      "PackagePath": "staticwebassets\\images\\grocery-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\logo\\white.png",
+      "PackagePath": "staticwebassets\\images\\logo\\white.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\nike-shoe.jpg",
+      "PackagePath": "staticwebassets\\images\\nike-shoe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\1-big-mage.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\1-big-mage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\1-small-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\1-small-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\2-big-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\2-big-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\2-small-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\2-small-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\3 Small Image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\3 Small Image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\3-big-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\3-big-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\4-big-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\4-big-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product-deatils\\4-small-image.jpg",
+      "PackagePath": "staticwebassets\\images\\product-deatils\\4-small-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\09.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\product\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\product\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\screenshot.png",
+      "PackagePath": "staticwebassets\\images\\screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\watch.jpg",
+      "PackagePath": "staticwebassets\\images\\watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\client_img.png",
+      "PackagePath": "staticwebassets\\img\\client_img.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\crm\\bg.svg",
+      "PackagePath": "staticwebassets\\img\\crm\\bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\crm\\businessman.svg",
+      "PackagePath": "staticwebassets\\img\\crm\\businessman.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\crm\\calender_icon.svg",
+      "PackagePath": "staticwebassets\\img\\crm\\calender_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\crm\\customer.svg",
+      "PackagePath": "staticwebassets\\img\\crm\\customer.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\crm\\infographic.svg",
+      "PackagePath": "staticwebassets\\img\\crm\\infographic.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\crm\\sqr.svg",
+      "PackagePath": "staticwebassets\\img\\crm\\sqr.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\1.png",
+      "PackagePath": "staticwebassets\\img\\customers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\pro_1.png",
+      "PackagePath": "staticwebassets\\img\\customers\\pro_1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\pro_2.png",
+      "PackagePath": "staticwebassets\\img\\customers\\pro_2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\pro_3.png",
+      "PackagePath": "staticwebassets\\img\\customers\\pro_3.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\pro_4.png",
+      "PackagePath": "staticwebassets\\img\\customers\\pro_4.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\pro_5.png",
+      "PackagePath": "staticwebassets\\img\\customers\\pro_5.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\customers\\pro_6.png",
+      "PackagePath": "staticwebassets\\img\\customers\\pro_6.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\1.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\2.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\3.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\4.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\5.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\6.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\6.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon2\\7.svg",
+      "PackagePath": "staticwebassets\\img\\icon2\\7.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon\\bell.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon\\calender_icon.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\calender_icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon\\icon_search.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\icon_search.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\icon\\msg.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\msg.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\line_img.png",
+      "PackagePath": "staticwebassets\\img\\line_img.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\10.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\10.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\11.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\11.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\12.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\12.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\13.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\13.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\14.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\14.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\15.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\15.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\16.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\16.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\17.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\17.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\18.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\18.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\19.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\19.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\2.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\20.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\20.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\21.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\21.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\3.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\4.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\5.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\6.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\6.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\7.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\7.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\8.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\8.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\9.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\9.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\menu-icon\\dashboard.svg",
+      "PackagePath": "staticwebassets\\img\\menu-icon\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\mini_logo.png",
+      "PackagePath": "staticwebassets\\img\\mini_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\staf\\1.png",
+      "PackagePath": "staticwebassets\\img\\staf\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\staf\\2.png",
+      "PackagePath": "staticwebassets\\img\\staf\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\staf\\3.png",
+      "PackagePath": "staticwebassets\\img\\staf\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\staf\\4.png",
+      "PackagePath": "staticwebassets\\img\\staf\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\staf\\5.png",
+      "PackagePath": "staticwebassets\\img\\staf\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\img\\table.svg",
+      "PackagePath": "staticwebassets\\img\\table.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\CustomScript.js",
+      "PackagePath": "staticwebassets\\js\\CustomScript.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\main1.js",
+      "PackagePath": "staticwebassets\\js\\main1.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\abstracts\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_cartitem.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_cartitem.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_customersreview.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_customersreview.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_orderitem.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_orderitem.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_product-item.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_product-item.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\components\\_productcategory.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_productcategory.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_brand.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_card-price.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_card-price.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_features.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_features.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_account.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_account.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_billing-information.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_billing-information.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_cart.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_deliver-info.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_deliver-info.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_forget-password.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_forget-password.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_home.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_home.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_order.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_order.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_payment.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_payment.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_product-details.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_product-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_shipping.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_shipping.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_styleguide.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_styleguide.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_user-dashboard.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_user-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_verify.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_verify.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\_wishlist.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_wishlist.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\pages\\shop.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\themes\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\themes\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\scss\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\css\\jquery.exzoom.css",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\css\\jquery.exzoom.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\css\\slick.css",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\css\\wan-spinner.css",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\css\\wan-spinner.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\js\\jquery.exzoom.js",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\js\\jquery.exzoom.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Desktop\\Workspace\\.net project\\ECommerce-master (1)\\ECommerce-master\\WebApplication1\\wwwroot\\scss\\vendors\\plugin\\js\\wan-spinner.js",
+      "PackagePath": "staticwebassets\\scss\\vendors\\plugin\\js\\wan-spinner.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EStore.props",
+      "PackagePath": "build\\EStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EStore.props",
+      "PackagePath": "buildMultiTargeting\\EStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EStore.props",
+      "PackagePath": "buildTransitive\\EStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
