@@ -26,7 +26,7 @@ Join our friendly community of developers who are always ready to share their ex
 
 ## Contribute to My Project
 
-As a free and open-source project, we welcome contributions from the community. Find out how you can get involved and explore the perks for contributors on our [Contribute Page](contribute_page_url).
+As a free and open-source project, we welcome contributions from the community.
 
 ## SignIn
   <img src="https://github.com/Ibrahim25-ai/ecommerce/blob/main/wwwroot/images/signin.png?raw=true" alt="Your Project Logo" width="900">
